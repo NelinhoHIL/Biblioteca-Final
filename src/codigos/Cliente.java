@@ -5,9 +5,9 @@ public class Cliente {
     private int id;
     private String nome;
     private String email;
-    private char telefone;
-    private String sexo;
-    private String situação;
+    private int telefone;
+    private int  cpf;
+    private String situacao;
     private int senha;
 
     public int getId() {
@@ -34,28 +34,28 @@ public class Cliente {
         this.email = email;
     }
 
-    public char getTelefone() {
+    public int getTelefone() {
         return telefone;
     }
 
-    public void setTelefone(char telefone) {
+    public void setTelefone(int telefone) {
         this.telefone = telefone;
     }
 
-    public String getSexo() {
-        return sexo;
+    public int getCpf() {
+        return cpf;
     }
 
-    public void setSexo(String sexo) {
-        this.sexo = sexo;
+    public void setCpf( int cpf) {
+        this.cpf = cpf;
     }
     
-	public String getSituação() {
-		return situação;
+	public String getSituacao() {
+		return situacao;
 	}
 
-	public void setSituação(String situação) {
-		this.situação = situação;
+	public void setSituacao(String situacao) {
+		this.situacao = situacao;
 	}
 
 	public int getSenha() {
@@ -66,9 +66,6 @@ public class Cliente {
 		this.senha = senha;
 	}
     
-    
-    
-
 }
 
 
