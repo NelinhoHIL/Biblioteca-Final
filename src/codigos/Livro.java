@@ -1,7 +1,8 @@
 package codigos;
 
+import java.util.Scanner;
 
-	public class Livro {
+public class Livro {
 
 	    private String titulo;
 	    private String autor;
@@ -9,7 +10,7 @@ package codigos;
 	    private int isbn;
 	    private int codLivro;
 
-	    public Livro(String titulo, String autor, int npag, int edicao, int codLivro, int isbn, int quantidade) {
+	    public Livro(String titulo, String autor, int codLivro, int isbn, int quantidade) {
 	        this.titulo = titulo;
 	        this.autor = autor;
 	        this.quantidade = quantidade;
@@ -55,5 +56,19 @@ package codigos;
 
 		public void setCodLivro(int codLivro) {
 			this.codLivro = codLivro;
+		
 		}
+	
+	@SuppressWarnings("resource")
+	public void emprestar (int quantidade, int codLivro) {
+			System.out.print("Digite o codigo do livro a ser emprestado:");
+			 codLivro = new Scanner(System.in).nextInt();
+			 System.out.print("Digite a quantidade do livro a ser emprestado:");
+			 quantidade = new Scanner(System.in).nextInt();
+			   for (quantidade =12 ; quantidade <=12 ; --quantidade);
+				 System.out.print("Ainda ha" + quantidade + "livros");
+
+					
+		return;
    }
+}
