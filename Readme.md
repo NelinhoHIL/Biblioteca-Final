@@ -1,32 +1,16 @@
-<<<<<<< HEAD
-1 MODELAGEM DO DOMÍNIO DO PROBLEMA  
-Referências
-MORE(Mecanismo online para referências), Google Scholar (Acadêmico) e
-Pergamum.  
-
-Linguagem
-=======
-1 MODELAGEM DO DOMÍNIO DO PROBLEMA
-
-Referências  
+MODELAGEM DO DOMÍNIO DO PROBLEMA  
+Referências   
 MORE(Mecanismo online para referências), Google Scholar (Acadêmico) e
 Pergamum.
 
 Linguagem  
->>>>>>> 9aae816d1dcfcbbb54bf8c344b24e5217f96d668
 Este documento será apresentado visando um público geral entre
 leigos,estudantes,graduandos e graduados. Esses de gerações, culturas, educação e
 etnias variados; com importância imensurável na constituição e manuseio dos acervos
 das mais variadas instituições. Para atender essa variedade usaremos uma linguagem
-<<<<<<< HEAD
-coloquial sem gírias em geral.  
-
-Descrição do Sistema   
-=======
 coloquial sem gírias em geral.
 
 Descrição do Sistema  
->>>>>>> 9aae816d1dcfcbbb54bf8c344b24e5217f96d668
 O Sistema de Biblioteca tem como principal objetivo manipular detalhadamente as
 entradas e saídas referentes aos livros, com a finalidade de facilitar a administração e
 conservação do acervo da instituição, tornando-a mais eficaz, trazendo benefícios para si
@@ -50,8 +34,4 @@ campo de busca e também será uma ferramenta de apoio ao sistema de biblioteca.
 Para gerar os comprovantes(relatórios) será utilizada uma ferramenta nativa do sistema
 que ofereça uma boa visualização dos dados e que lhe forneça informações em tempo
 real, para facilitar o trabalho diário dos funcionários que precisam atender os usuários
-<<<<<<< HEAD
 com qualidade e rapidez.
-=======
-com qualidade e rapidez
->>>>>>> 9aae816d1dcfcbbb54bf8c344b24e5217f96d668
