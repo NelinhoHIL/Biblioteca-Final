@@ -1,9 +1,9 @@
 MODELAGEM DO DOMÍNIO DO PROBLEMA  
-Referências   
+Referências     
 MORE(Mecanismo online para referências), Google Scholar (Acadêmico) e
 Pergamum.
 
-Linguagem  
+Linguagem    
 Este documento será apresentado visando um público geral entre
 leigos,estudantes,graduandos e graduados. Esses de gerações, culturas, educação e
 etnias variados; com importância imensurável na constituição e manuseio dos acervos
