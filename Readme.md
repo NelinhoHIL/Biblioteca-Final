@@ -33,5 +33,5 @@ funciona que nem o buscador padrão do Google, é só acessar e fazer a pesquisa
 campo de busca e também será uma ferramenta de apoio ao sistema de biblioteca.
 Para gerar os comprovantes(relatórios) será utilizada uma ferramenta nativa do sistema
 que ofereça uma boa visualização dos dados e que lhe forneça informações em tempo
-real, para facilitar o trabalho diário dos funcionários que precisam atender os usuários
+real, para facilitar o trabalho diário dos funcionários que precisam atender os usuários.
 com qualidade e rapidez.
