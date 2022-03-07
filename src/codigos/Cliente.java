@@ -11,7 +11,8 @@ public class Cliente {
     private int senha;
     
     public Cliente( int id, String nome, String email, int telefone, int cpf, String situacao, int senha ) {
-        this.nome = nome;
+    	this.id = id;
+    	this.nome = nome;
         this.email = email;
         this.telefone = telefone;
         this.cpf = cpf;
